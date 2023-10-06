@@ -1,8 +1,8 @@
-Name: Carlo Embuscado
+Name: Embuscado, Carlo
 <br>Course - Year & Block: BSIT 3-1
 <br>
 <br>Objectives:
-<br><br><br>
+<br>
 <br> Installation
 <br> Staging
 <br> Commit
